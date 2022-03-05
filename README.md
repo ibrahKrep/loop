@@ -1,7 +1,7 @@
 # web-app loop
 
 **Salin Aja Nih Kode:v**
-``js
+```js
 <!DOCTYPE html>
 <html lang="en">
 <head>
