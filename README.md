@@ -2,9 +2,9 @@
 
 **JavaScript nested loop code**
 
-**Cocok Buat nyepam aja sih:v**
+**Cocok Buat nyepam aja sih**
 
-**Salin Aja Nih Kode:v**
+**Salin Aja Nih Kode**
 
 + index.html
 ```js
