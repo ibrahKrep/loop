@@ -22,3 +22,8 @@
 [`View Raw`](https://raw.githubusercontent.com/ibrahKrep/loop/main/index.html)
 
 **Jangan lupa buat filenya ex: index.html**
+
+**index.js**
+```js
+
+```
