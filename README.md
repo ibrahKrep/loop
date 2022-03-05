@@ -2,7 +2,7 @@
 
 **JavaScript nested loop code**
 
-**Cocok Buat nyepam aja sih**
+**Cocok Buat nyepam ae sih**
 
 **Salin Aja Nih Kode**
 
