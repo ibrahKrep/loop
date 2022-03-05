@@ -13,7 +13,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>prjct</title>
+  <title>loop</title>
 </head>
 <body>
 	<h1 id="myRectangle"></h1>
