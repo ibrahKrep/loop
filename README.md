@@ -5,6 +5,8 @@
 **Cocok Buat nyepam aja sih:v**
 
 **Salin Aja Nih Kode:v**
+
++ index.html
 ```js
 <!DOCTYPE html>
 <html lang="en">
@@ -23,6 +25,7 @@
 
 **Jangan lupa buat filenya ex: index.html**
 
++ index.js
 **index.js**
 ```js
 //****** index.js ******
