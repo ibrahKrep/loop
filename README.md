@@ -2,5 +2,16 @@
 
 **Salin Aja Nih Kode:v**
 ``js
-Test
-``
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>prjct</title>
+</head>
+<body>
+	<h1 id="myRectangle"></h1>
+	<script src="index.js"></script>
+</body>
+</html>
+```
