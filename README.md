@@ -51,3 +51,5 @@ for(let i = 0; i < rows; i++){
 }
 ```
 [`View Raw`](https://raw.githubusercontent.com/ibrahKrep/loop/main/index.js)
+
+**inspired by rizxyu**
