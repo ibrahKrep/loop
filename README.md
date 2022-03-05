@@ -26,7 +26,7 @@
 **Jangan lupa buat filenya ex: index.html**
 
 + index.js
-**index.js**
+
 ```js
 //****** index.js ******
 var symbol = window.prompt("Masukkan Simbol :");
