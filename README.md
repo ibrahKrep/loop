@@ -15,3 +15,4 @@
 </body>
 </html>
 ```
+**Jangan lupa buat filenya ex: index.html**
