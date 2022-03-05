@@ -1,7 +1,7 @@
 # web-app loop
 
-+ JavaScript nested loop code:v, buat spam aja sih.
-+ awokaowkaowk>:)
++ JavaScript nested loop code
+**Cocok Buat nyepam aja sih:v
 
 **Salin Aja Nih Kode:v**
 ```js
