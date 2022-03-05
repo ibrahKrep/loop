@@ -1,5 +1,8 @@
 # web-app loop
 
++ JavaScript nested loop code:v, buat spam aja sih.
++ awokaowkaowk>:)
+
 **Salin Aja Nih Kode:v**
 ```js
 <!DOCTYPE html>
@@ -16,4 +19,5 @@
 </html>
 ```
 [`View Raw`](https://raw.githubusercontent.com/ibrahKrep/loop/main/index.html)
+
 **Jangan lupa buat filenya ex: index.html**
