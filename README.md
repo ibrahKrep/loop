@@ -7,7 +7,8 @@
 
 **Salin Aja Nih Kode**
 
-+ index.html
+# HTML
+
 ```js
 <!DOCTYPE html>
 <html lang="en">
@@ -24,9 +25,7 @@
 ```
 [`View Raw`](https://raw.githubusercontent.com/ibrahKrep/loop/main/index.html)
 
-**Jangan lupa buat filenya ex: index.html**
-
-+ index.js
+# Javascript
 
 ```js
 //****** index.js ******
@@ -53,4 +52,3 @@ for(let i = 0; i < rows; i++){
 ```
 [`View Raw`](https://raw.githubusercontent.com/ibrahKrep/loop/main/index.js)
 
-**inspired by rizxyu**
