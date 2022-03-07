@@ -28,7 +28,6 @@
 # Javascript
 
 ```js
-//****** index.js ******
 var symbol = window.prompt("Masukkan Simbol :");
 var rows = window.prompt("Jumlah Baris");
 var columns = window.prompt("Jumlah Kolom :");
