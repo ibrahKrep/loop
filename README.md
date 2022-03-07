@@ -1,4 +1,4 @@
-# web-app loop
+# loop
 
 **JavaScript nested loop code**
 [`Preview`](https://ibrahkrep.github.io/loop/)
